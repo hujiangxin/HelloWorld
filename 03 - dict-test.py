@@ -24,7 +24,7 @@ people = {
 labels = {'phone': 'phone number',
           'addr': 'address'
           }
-
+# define the name variable
 name = input('Name;')
 request = input("Phone number (p) or address (a)?")
                 
